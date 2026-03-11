@@ -30,4 +30,4 @@ How to Run (.exe):
    gui_scheduler.exe
 
 No Python installation is required to run the executable.
-------------------------------------
+
